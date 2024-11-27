@@ -2,6 +2,106 @@
 
 # Changelog
 
+### [Version 1.34.2](https://github.com/lobehub/lobe-chat/compare/v1.34.1...v1.34.2)
+
+<sup>Released on **2024-11-27**</sup>
+
+#### 💄 Styles
+
+- **misc**: Improve thread i18n locale.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Styles
+
+- **misc**: Improve thread i18n locale, closes [#4807](https://github.com/lobehub/lobe-chat/issues/4807) ([3da1704](https://github.com/lobehub/lobe-chat/commit/3da1704))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.34.1](https://github.com/lobehub/lobe-chat/compare/v1.34.0...v1.34.1)
+
+<sup>Released on **2024-11-26**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Fix Qwen baseUrl calling.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Fix Qwen baseUrl calling, closes [#4799](https://github.com/lobehub/lobe-chat/issues/4799) ([8fd7eb7](https://github.com/lobehub/lobe-chat/commit/8fd7eb7))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+## [Version 1.34.0](https://github.com/lobehub/lobe-chat/compare/v1.33.5...v1.34.0)
+
+<sup>Released on **2024-11-26**</sup>
+
+#### ✨ Features
+
+- **misc**: Forkable Chat Mode.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **misc**: Forkable Chat Mode, closes [#4632](https://github.com/lobehub/lobe-chat/issues/4632) ([832f0ce](https://github.com/lobehub/lobe-chat/commit/832f0ce))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.33.5](https://github.com/lobehub/lobe-chat/compare/v1.33.4...v1.33.5)
+
+<sup>Released on **2024-11-26**</sup>
+
+#### 💄 Styles
+
+- **misc**: Update the description translation of Gitee AI.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Styles
+
+- **misc**: Update the description translation of Gitee AI, closes [#4793](https://github.com/lobehub/lobe-chat/issues/4793) ([6f8eddc](https://github.com/lobehub/lobe-chat/commit/6f8eddc))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ### [Version 1.33.4](https://github.com/lobehub/lobe-chat/compare/v1.33.3...v1.33.4)
 
 <sup>Released on **2024-11-26**</sup>

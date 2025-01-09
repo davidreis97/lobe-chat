@@ -2,6 +2,131 @@
 
 # Changelog
 
+### [Version 1.45.3](https://github.com/lobehub/lobe-chat/compare/v1.45.2...v1.45.3)
+
+<sup>Released on **2025-01-09**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Fix some ai provider known issues.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Fix some ai provider known issues, closes [#5361](https://github.com/lobehub/lobe-chat/issues/5361) ([b2775b5](https://github.com/lobehub/lobe-chat/commit/b2775b5))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.45.2](https://github.com/lobehub/lobe-chat/compare/v1.45.1...v1.45.2)
+
+<sup>Released on **2025-01-09**</sup>
+
+#### 💄 Styles
+
+- **misc**: Update siliconcloud model list.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Styles
+
+- **misc**: Update siliconcloud model list, closes [#5360](https://github.com/lobehub/lobe-chat/issues/5360) ([69085ac](https://github.com/lobehub/lobe-chat/commit/69085ac))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.45.1](https://github.com/lobehub/lobe-chat/compare/v1.45.0...v1.45.1)
+
+<sup>Released on **2025-01-09**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Fix remark gfm regex breaks in Safari versions < 16.4.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Fix remark gfm regex breaks in Safari versions < 16.4, closes [#5357](https://github.com/lobehub/lobe-chat/issues/5357) ([9086570](https://github.com/lobehub/lobe-chat/commit/9086570))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+## [Version 1.45.0](https://github.com/lobehub/lobe-chat/compare/v1.44.3...v1.45.0)
+
+<sup>Released on **2025-01-08**</sup>
+
+#### ✨ Features
+
+- **misc**: Update Remark.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **misc**: Update Remark, closes [#5340](https://github.com/lobehub/lobe-chat/issues/5340) ([2c3331a](https://github.com/lobehub/lobe-chat/commit/2c3331a))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.44.3](https://github.com/lobehub/lobe-chat/compare/v1.44.2...v1.44.3)
+
+<sup>Released on **2025-01-08**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Fix provider enabled issue.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Fix provider enabled issue, closes [#5337](https://github.com/lobehub/lobe-chat/issues/5337) ([8e0b634](https://github.com/lobehub/lobe-chat/commit/8e0b634))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ### [Version 1.44.2](https://github.com/lobehub/lobe-chat/compare/v1.44.1...v1.44.2)
 
 <sup>Released on **2025-01-08**</sup>

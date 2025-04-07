@@ -1,6 +1,20 @@
 [
   {
     "children": {
+      "improvements": ["Refactor the file service."]
+    },
+    "date": "2025-04-06",
+    "version": "1.77.16"
+  },
+  {
+    "children": {
+      "improvements": ["Improve public procedure implement."]
+    },
+    "date": "2025-04-06",
+    "version": "1.77.15"
+  },
+  {
+    "children": {
       "improvements": ["Add ernie-x1-32k-preview support for Wenxin."]
     },
     "date": "2025-04-06",
